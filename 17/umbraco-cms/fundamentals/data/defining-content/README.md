@@ -25,7 +25,7 @@ A Document Type contains fieldsets (or groups) where you can apply rules about w
 A Document Type is created using the Document Type editor in the **Settings** section.
 
 * Go to the **Settings** section in the backoffice.
-* On the **Document Types** node click the menu icon (•••) to bring up the context menu.
+* On the **Document Types** node click the menu icon (â€¢â€¢â€¢) to bring up the context menu.
 * Here choose **Document Type with Template**. This will create a new Document Type with a template. The Template can be found under **Templates** in the **Settings** section which will be assigned as the default template for the Document Type.
 
 ![CreateDoctype](../images/CreateDoctype.png)
@@ -163,7 +163,7 @@ You have the option to add additional validation by selecting a predefined valid
 
 #### Property descriptions
 
-The description of the property is not necessary, but it´s a best practice as it guides the editor to use the property correctly. The property description supports some markdown and one custom collapse syntax:
+The description of the property is not necessary, but itÂ´s a best practice as it guides the editor to use the property correctly. The property description supports some markdown and one custom collapse syntax:
 
 <details>
 
@@ -238,8 +238,10 @@ This is **bold**
 This is *italic*
 [This is an absolute link](https://google.com)
 [This is a relative link](/umbraco#/media)
---
+<details>
+
 ![Image alt text](https://media.giphy.com/media/bezxCUK2D2TuBCJ7r5/giphy.gif)
+</details>
 ```
 
 ![Makrdown description example](../../../../../15/umbraco-cms/fundamentals/data/images/md-description.gif)
@@ -268,7 +270,7 @@ Before creating a Text Page in **Content** section, allow the Text Page Document
 <figure><img src="../../../.gitbook/assets/image (8).png" alt="Allow Child page"><figcaption><p>Allow Child page</p></figcaption></figure>
 
 * Go to the **Content** section
-* Click the menu icon (•••) next to the "`Home`" node
+* Click the menu icon (â€¢â€¢â€¢) next to the "`Home`" node
 * **Select** the "`Text page`" Document Type. We'll name the page "`About us`". We now have a basic content structure.
 
 <figure><img src="../images/v8Screenshots/createAboutUs.PNG" alt=""><figcaption></figcaption></figure>
