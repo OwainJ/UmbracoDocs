@@ -244,7 +244,7 @@ This is *italic*
 </details>
 ```
 
-![Makrdown description example](../../../../../15/umbraco-cms/fundamentals/data/images/md-description.gif)
+![Makrdown description example](../../../../../17/umbraco-cms/fundamentals/data/images/md-description.gif)
 
 ## 5. Defining child nodes
 
